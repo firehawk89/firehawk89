@@ -1,5 +1,7 @@
 # :wave: Hey, I'm Anton Bochkovskyi
 
+![Header image](header.jpeg)
+
 ## :man_technologist: About Me
 
 Hi, I'm a student and frontend developer from Ukraine and I do really like programming! I'm currently learning React and working on couple of projects using this framework. I already have experience working not only with HTML, CSS and JS, but also with Node.js, C#, and Java. 
