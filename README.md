@@ -4,7 +4,9 @@
 
 ## :man_technologist: About Me
 
-I'm a student and frontend developer from Ukraine and I do really like programming! I'm currently learning React and working on couple of projects using this framework. I already have experience working not only with HTML, CSS and JS, but also with Node.js, C#, and Java. 
+I'm a student and front-end developer from Ukraine and I do really like programming! I'm currently learning React and working on couple of projects using this framework. I already have experience working not only with HTML, CSS and JS, but also with Node.js, C#, and Java. 
+
+If you want to know more about my experience, you can [download]() my CV.
 
 ## :gear: My Skills
 
