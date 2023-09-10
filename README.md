@@ -6,7 +6,7 @@
 
 I'm a student and front-end developer from Ukraine and I do really like programming! I'm currently learning React and working on couple of projects using this framework. I already have experience working not only with HTML, CSS and JS, but also with Node.js, C#, and Java. 
 
-If you want to know more about my experience, you can [download]() my CV.
+If you want to know more about my experience, you can [download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/firehawk89/firehawk89/blob/827a7458d1e5b877b5a758d26f4c742f751bd518/Anton_Bochkovskyi_Front-End_Developer_CV.pdf) my CV.
 
 ## :gear: My Skills
 
