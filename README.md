@@ -1,3 +1,5 @@
+[![Anton Bochkovskyi profile views](https://u8views.com/api/v1/github/profiles/98012691/views/day-week-month-total-count.svg)](https://u8views.com/github/firehawk89)
+
 # :wave: Hey, I'm Anton Bochkovskyi
 
 ![Header image](header-small.png)
