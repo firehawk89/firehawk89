@@ -1,19 +1,78 @@
-[![Anton Bochkovskyi profile views](https://u8views.com/api/v1/github/profiles/98012691/views/day-week-month-total-count.svg)](https://u8views.com/github/firehawk89)
+<p align="center">
+  <a href="https://u8views.com/github/firehawk89">
+    <img src="https://u8views.com/api/v1/github/profiles/98012691/views/day-week-month-total-count.svg" alt="Profile views">
+  </a>
+</p>
 
-# :wave: Hey, I'm Anton Bochkovskyi
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1D2671,100:C33764&text=Hey,%20I'm%20Anton%20Bochkovskyi&textBg=false&fontSize=56&animation=fadeIn&section=header&reversal=false&fontColor=fff" alt="Animated banner"/>
+</p>
 
-![Header image](header-small.png)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anton-bochkovskyi-4bb783250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:bochkovskyi.anton@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://t.me/Spokened">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
-## :man_technologist: About Me
+---
 
-I'm a student and front-end developer from Ukraine and I do really like programming! As a developer, I already have experience working not only with Front-End technologies, such as HTML, CSS and JS, but also with Node.js, C#, and Java. 
+## 👋 About Me
+
+My name is Anton. I'm a Full-Stack Developer focused on scalable web apps, APIs, and cloud-based systems. I enjoy building performant products end-to-end - from frontend UX to backend infrastructure and deployment workflows.
+
+* 👨‍💻 Building AI-driven web applications and scalable platforms
+* 🌱 Deepening knowledge in architecture, optimization, and backend scalability
+* ⚡️ Working mainly with React, TypeScript, Node.js, Cloudflare, and PostgreSQL
+* 🎯 Aiming to engineer fast, reliable products at scale
 
 If you want to know more about my experience, you can [download](https://github.com/firehawk89/firehawk89/blob/main/Anton_Bochkovskyi_Front-End_Developer_CV.pdf) my CV.
 
-## :gear: My Skills
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 💻 Tech Stack
 
-## :mailbox: Get In Touch
+### Languages:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=social)](https://t.me/Spokened) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/anton-bochkovskyi-4bb783250/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=social)](https://instagram.com/antoshka_numberone?igshid=NGExMmI2YTkyZg==)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
+</p>
+
+### Front-end:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui" />
+  </a>
+</p>
+
+### Back-end:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,prisma" />
+  </a>
+</p>
+
+### Infrastructure / Cloud:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,cloudflare,workers,docker" />
+  </a>
+</p>
+
+### Tools:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
