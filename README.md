@@ -31,7 +31,7 @@ My name is Anton. I'm a Full-Stack Developer focused on scalable web apps, APIs,
 * ⚡️ Working mainly with React, TypeScript, Node.js, Cloudflare, and PostgreSQL
 * 🎯 Aiming to engineer fast, reliable products at scale
 
-If you want to know more about my experience, you can [download](https://github.com/firehawk89/firehawk89/blob/main/Anton_Bochkovskyi_Front-End_Developer_CV.pdf) my CV.
+If you want to know more about my experience, you can [download](https://github.com/firehawk89/firehawk89/blob/main/Anton_Bochkovskyi_Full_Stack_Developer_CV.pdf) my CV.
 
 ---
 
@@ -49,7 +49,7 @@ If you want to know more about my experience, you can [download](https://github.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vite,redux,tailwind,materialui" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ If you want to know more about my experience, you can [download](https://github.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,mongodb,prisma" />
   </a>
 </p>
 
@@ -65,14 +65,14 @@ If you want to know more about my experience, you can [download](https://github.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,cloudflare,workers,docker" />
+    <img src="https://skillicons.dev/icons?i=firebase,gcp,cloudflare,heroku,docker" />
   </a>
 </p>
 
-### Tools:
+### Tools & CI/CD:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
   </a>
 </p>
